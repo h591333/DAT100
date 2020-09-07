@@ -18,7 +18,7 @@ public class Oppave6 {
         }
         
         else {
-            showMessageDialog(null, "Tallet du tastet inn kan ikke være negativt.");
+            showMessageDialog(null, "Tallet kan ikke være negativt.");
         }
 
     }
