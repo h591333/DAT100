@@ -2,7 +2,7 @@ package no.hvl.dat100;
 
 import static javax.swing.JOptionPane.*;
 
-public class Oppgave5{
+public class Oppgave5 {
 	
 	public static void main(String[] args) {
 		
@@ -37,5 +37,6 @@ public class Oppgave5{
 			showMessageDialog(null, "Feilmelding: Ugyldig poengsum.");
 		}
 		}
-		
+	}
+}
 	
